@@ -1,6 +1,14 @@
 ## Welcome to GitHub Pages
 
+<<<<<<< HEAD
 サイト
+=======
+
+私の名前は　**「たいじゅ」**と言います。
+- トマト
+- きゅうり
+- なすび
+この三つは野菜の中でも好きな方です。
 
 You can use the [editor on GitHub](https://github.com/Tatemiti/Tatemiti.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
